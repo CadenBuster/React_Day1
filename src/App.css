@@ -1,0 +1,19 @@
+.tooMany {
+    color:red;
+}
+
+button {
+    color:white;
+    background-color: black;
+}
+
+.Animate{
+    border: 1px solid black;
+    width: 600px;
+    margin: 10px;
+    background-color: white;
+}
+
+.Button{
+    margin:10px;
+}
